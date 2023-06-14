@@ -1,0 +1,69 @@
+@mixin H1{
+    font: {
+        weight: 700;
+        size: 4.187rem;
+    }
+    line-height: 6rem;
+}
+@mixin H2 {
+    font: {
+        weight:700;
+        size: 3.187rem;
+    }
+    line-height: 4.5rem;
+}
+@mixin H3 {
+    font: {
+        weight:700;
+        size: 3rem;
+    }
+    line-height: 3rem;
+}
+@mixin H4 {
+    font: {
+        weight:700;
+        size: 1.7rem;
+    }
+    line-height: 2rem;
+}
+@mixin H5 {
+    font: {
+        weight:700;
+        size: 1.3rem;
+    }
+    line-height: 1rem;
+}
+@mixin H3 {
+    font: {
+        weight:700;
+        size: 1rem;
+    }
+    line-height: 1rem;
+}
+@mixin pfont {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+@mixin MutedText {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+@mixin HelperText {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1rem;
+}
+@mixin RegularLink{
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+}
+@mixin SpecialLink {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
