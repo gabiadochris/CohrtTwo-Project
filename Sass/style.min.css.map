@@ -1,1 +1,1 @@
-{"version":3,"sources":["General/_reset.scss"],"names":[],"mappings":"AAAA,EACI,SAAA,CACA,QAAA,CACA,YAAA,CACA,0CAAA","file":"style.min.css"}
+{"version":3,"sources":["General/_reset.scss","Components/_Hero.scss","General/_color.scss"],"names":[],"mappings":"AAAA,EACI,SAAA,CACA,QAAA,CACA,YAAA,CACA,0CAAA,CCHJ,eACI,wBCES","file":"style.min.css"}
